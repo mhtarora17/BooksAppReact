@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Open the project in Visual Studio Code
+
+Install npm by following command
+
+yum install npm
+
+In the project terminal run
+
+npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
