@@ -1,12 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Open the project in Visual Studio Code
+Prequisites
 
 Install npm by following command
 
 yum install npm
 
-In the project terminal run
+## Steps to Setup
+
+**1. Clone the application**
+
+```bash
+https://github.com/mhtarora17/BooksAppReact.git
+```
+
+**2. Open the project in Visual Studio Code**
+
+**2. In the project terminal run**
 
 npm install
 
